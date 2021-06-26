@@ -2,7 +2,7 @@
 It is just a small project create to guess number from programming language Python
 
 # output 
-The Computer choose a number Between  1 and 1000
+The Computer choose a number Between  1 and 1000"\n"
 Guess the number: 200
 The number is Higher
 Guess the number: 100
